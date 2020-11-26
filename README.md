@@ -1,6 +1,6 @@
 # React-Native SimpleChat
 
-Simple Chat application uses SocketIO for real-time communication. There is two steps before you access into your room, first you should create account, after you created account server will send password via Twilio to provided number. In background I used Nginx web server, NodeJS for services, and PostgreSQL database.
+Simple Chat application uses SocketIO real-time communication for send messages between users. There is two steps before you access into your room, first you should create account, after you created account server will send password via Twilio to provided number. In background I used Nginx web server, NodeJS for services, and PostgreSQL database.
 
 After logining, there is your room where you can start chat!
 
