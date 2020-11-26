@@ -4,5 +4,5 @@ Simple Chat application uses SocketIO for real-time communication. There is two 
 
 After logining, there is your room where you can start chat!
 
-<a href="https://ibb.co/ZxdtCMm"><img src="https://i.ibb.co/Fz6NtDV/20201126-221045.jpg" alt="20201126-221045" border="0"></a>
-<a href="https://ibb.co/RjCrkG3"><img src="https://i.ibb.co/8YjvLnr/20201126-221059.jpg" alt="20201126-221059" border="0"></a>
+<a href="https://ibb.co/ZxdtCMm"><img src="https://i.ibb.co/Fz6NtDV/20201126-221045.jpg" alt="20201126-221045" width="320" height="597" border="0"></a>
+<a href="https://ibb.co/RjCrkG3"><img src="https://i.ibb.co/8YjvLnr/20201126-221059.jpg" alt="20201126-221059" width="320" height="597" border="0"></a>
